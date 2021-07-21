@@ -1,0 +1,2 @@
+-I/Users/akinolaabidemi/Documents/section_12/Returning_Pointer_from_Function
+-std=c++14

@@ -1,0 +1,3 @@
+/bin/sh -c '/usr/bin/make -j4 -e -f  Makefile'
+----------Building project:[ CPPworkspacefirstcode - Debug ]----------
+====0 errors, 0 warnings====

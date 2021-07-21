@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section_13_New" Database="" Version="10000">
+  <Project Name="Move_Constructors" Path="Move_Constructors/Move_Constructors.project" Active="No"/>
+  <Project Name="Const_in_Classes" Path="Const_in_Classes/Const_in_Classes.project" Active="No"/>
+  <Project Name="Static_Class_Members" Path="Static_Class_Members/Static_Class_Members.project" Active="No"/>
+  <Project Name="Section_13_New_Challenge" Path="Section_13_New_Challenge/Section_13_New_Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Move_Constructors" ConfigName="Debug"/>
+      <Project Name="Const_in_Classes" ConfigName="Debug"/>
+      <Project Name="Static_Class_Members" ConfigName="Debug"/>
+      <Project Name="Section_13_New_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Move_Constructors" ConfigName="Release"/>
+      <Project Name="Const_in_Classes" ConfigName="Release"/>
+      <Project Name="Static_Class_Members" ConfigName="Release"/>
+      <Project Name="Section_13_New_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

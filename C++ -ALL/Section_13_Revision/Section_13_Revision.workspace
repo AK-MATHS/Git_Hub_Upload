@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section_13_Revision" Database="" Version="10000">
+  <Project Name="Class_declaration" Path="Class_declaration/Class_declaration.project" Active="No"/>
+  <Project Name="Class_Access" Path="Class_Access/Class_Access.project" Active="No"/>
+  <Project Name="Class_Implementation" Path="Class_Implementation/Class_Implementation.project" Active="No"/>
+  <Project Name="Class-implementation_2" Path="Class-implementation_2/Class-implementation_2.project" Active="No"/>
+  <Project Name="Constructors_and_Destructors" Path="Constructors_and_Destructors/Constructors_and_Destructors.project" Active="No"/>
+  <Project Name="Constructor_Init" Path="Constructor_Init/Constructor_Init.project" Active="No"/>
+  <Project Name="Delegated_Constructors" Path="Delegated_Constructors/Delegated_Constructors.project" Active="No"/>
+  <Project Name="Defaullt_Constructors" Path="Defaullt_Constructors/Defaullt_Constructors.project" Active="No"/>
+  <Project Name="Copy_Constructor" Path="Copy_Constructor/Copy_Constructor.project" Active="No"/>
+  <Project Name="Shallow_copy" Path="Shallow_copy/Shallow_copy.project" Active="No"/>
+  <Project Name="Deep_Copy" Path="Deep_Copy/Deep_Copy.project" Active="No"/>
+  <Project Name="Move_Constructors" Path="Move_Constructors/Move_Constructors.project" Active="No"/>
+  <Project Name="This" Path="This/This.project" Active="No"/>
+  <Project Name="Static_class_members" Path="Static_class_members/Static_class_members.project" Active="No"/>
+  <Project Name="Section_13_Revision_Challenge" Path="Section_13_Revision_Challenge/Section_13_Revision_Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Class_declaration" ConfigName="Debug"/>
+      <Project Name="Class_Access" ConfigName="Debug"/>
+      <Project Name="Class_Implementation" ConfigName="Debug"/>
+      <Project Name="Class-implementation_2" ConfigName="Debug"/>
+      <Project Name="Constructors_and_Destructors" ConfigName="Debug"/>
+      <Project Name="Constructor_Init" ConfigName="Debug"/>
+      <Project Name="Delegated_Constructors" ConfigName="Debug"/>
+      <Project Name="Defaullt_Constructors" ConfigName="Debug"/>
+      <Project Name="Copy_Constructor" ConfigName="Debug"/>
+      <Project Name="Shallow_copy" ConfigName="Debug"/>
+      <Project Name="Deep_Copy" ConfigName="Debug"/>
+      <Project Name="Move_Constructors" ConfigName="Debug"/>
+      <Project Name="This" ConfigName="Debug"/>
+      <Project Name="Static_class_members" ConfigName="Debug"/>
+      <Project Name="Section_13_Revision_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Class_declaration" ConfigName="Release"/>
+      <Project Name="Class_Access" ConfigName="Release"/>
+      <Project Name="Class_Implementation" ConfigName="Release"/>
+      <Project Name="Class-implementation_2" ConfigName="Release"/>
+      <Project Name="Constructors_and_Destructors" ConfigName="Release"/>
+      <Project Name="Constructor_Init" ConfigName="Release"/>
+      <Project Name="Delegated_Constructors" ConfigName="Release"/>
+      <Project Name="Defaullt_Constructors" ConfigName="Release"/>
+      <Project Name="Copy_Constructor" ConfigName="Release"/>
+      <Project Name="Shallow_copy" ConfigName="Release"/>
+      <Project Name="Deep_Copy" ConfigName="Release"/>
+      <Project Name="Move_Constructors" ConfigName="Release"/>
+      <Project Name="This" ConfigName="Release"/>
+      <Project Name="Static_class_members" ConfigName="Release"/>
+      <Project Name="Section_13_Revision_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

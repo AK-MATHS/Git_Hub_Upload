@@ -1,0 +1,6 @@
+def main(person):
+	
+	person = input (Enter your name)
+	print"person is a boy"
+
+	

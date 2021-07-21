@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section_12" Database="" Version="10000">
+  <Project Name="pointer_address" Path="pointer_address/pointer_address.project" Active="No"/>
+  <Project Name="dereferencing_pointers" Path="dereferencing_pointers/dereferencing_pointers.project" Active="No"/>
+  <Project Name="Dynamic_Memory_Allocation" Path="Dynamic_Memory_Allocation/Dynamic_Memory_Allocation.project" Active="No"/>
+  <Project Name="array_and_pointers" Path="array_and_pointers/array_and_pointers.project" Active="No"/>
+  <Project Name="pointer_arithmetic" Path="pointer_arithmetic/pointer_arithmetic.project" Active="No"/>
+  <Project Name="Const_and_Pointers" Path="Const_and_Pointers/Const_and_Pointers.project" Active="No"/>
+  <Project Name="Pointers_to_Functions" Path="Pointers_to_Functions/Pointers_to_Functions.project" Active="No"/>
+  <Project Name="Pointers_to_Function" Path="Pointers_to_Function/Pointers_to_Function.project" Active="No"/>
+  <Project Name="Pointers_to_function3" Path="Pointers_to_function3/Pointers_to_function3.project" Active="No"/>
+  <Project Name="Returning_Pointer_from_Function" Path="Returning_Pointer_from_Function/Returning_Pointer_from_Function.project" Active="No"/>
+  <Project Name="Reference" Path="Pointers_Pitfalls/Pointers_Pitfalls.project" Active="No"/>
+  <Project Name="Debugger" Path="Debugger/Debugger.project" Active="No"/>
+  <Project Name="section_12_challenge" Path="section_12_challenge/section_12_challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="pointer_address" ConfigName="Debug"/>
+      <Project Name="dereferencing_pointers" ConfigName="Debug"/>
+      <Project Name="Dynamic_Memory_Allocation" ConfigName="Debug"/>
+      <Project Name="array_and_pointers" ConfigName="Debug"/>
+      <Project Name="pointer_arithmetic" ConfigName="Debug"/>
+      <Project Name="Const_and_Pointers" ConfigName="Debug"/>
+      <Project Name="Pointers_to_Functions" ConfigName="Debug"/>
+      <Project Name="Pointers_to_Function" ConfigName="Debug"/>
+      <Project Name="Pointers_to_function3" ConfigName="Debug"/>
+      <Project Name="Returning_Pointer_from_Function" ConfigName="Debug"/>
+      <Project Name="Reference" ConfigName="Debug"/>
+      <Project Name="Debugger" ConfigName="Debug"/>
+      <Project Name="section_12_challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="pointer_address" ConfigName="Release"/>
+      <Project Name="dereferencing_pointers" ConfigName="Release"/>
+      <Project Name="Dynamic_Memory_Allocation" ConfigName="Release"/>
+      <Project Name="array_and_pointers" ConfigName="Release"/>
+      <Project Name="pointer_arithmetic" ConfigName="Release"/>
+      <Project Name="Const_and_Pointers" ConfigName="Release"/>
+      <Project Name="Pointers_to_Functions" ConfigName="Release"/>
+      <Project Name="Pointers_to_Function" ConfigName="Release"/>
+      <Project Name="Pointers_to_function3" ConfigName="Release"/>
+      <Project Name="Returning_Pointer_from_Function" ConfigName="Release"/>
+      <Project Name="Reference" ConfigName="Release"/>
+      <Project Name="Debugger" ConfigName="Release"/>
+      <Project Name="section_12_challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

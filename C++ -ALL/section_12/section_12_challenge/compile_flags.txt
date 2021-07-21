@@ -1,0 +1,2 @@
+-I/Users/akinolaabidemi/Documents/section_12/section_12_challenge
+-std=c++14

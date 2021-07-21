@@ -1,0 +1,2 @@
+-I/Users/akinolaabidemi/Documents/section_12/pointer_arithmetic
+-std=c++14

@@ -1,0 +1,2 @@
+-I/Users/akinolaabidemi/Documents/section_12/Pointers_to_function3
+-std=c++14

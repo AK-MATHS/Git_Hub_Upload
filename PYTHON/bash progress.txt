@@ -1,0 +1,14 @@
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ mkdir bdm/bin
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ mkdir bdm/scripts
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ echo echo "Hello, World!" >bdm/bin/hw
+-bash: !": event not found
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ echo echo "Hello, World!" >bdm/bin/
+-bash: !": event not found
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ echo echo "Hello, World!" >$HOME/bdm/bin/hw
+-bash: !": event not found
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ PATH=$PATH:$HOME/bin
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ PATH=$PATH:$HOME/bdm/bin
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ echo echo Hello, World! > bdm/bin/hw
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ bash bdm/bin/hw
+Hello, World!
+AKINOLAs-MacBook-Pro:~ akinolaabidemi$ 

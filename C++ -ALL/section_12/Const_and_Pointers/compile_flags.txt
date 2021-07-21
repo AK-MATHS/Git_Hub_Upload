@@ -1,0 +1,2 @@
+-I/Users/akinolaabidemi/Documents/section_12/Const_and_Pointers
+-std=c++14

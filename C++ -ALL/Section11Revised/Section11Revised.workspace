@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11Revised" Database="" Version="10000">
+  <Project Name="math" Path="tasl/tasl.project" Active="No"/>
+  <Project Name="Random" Path="Random/Random.project" Active="No"/>
+  <Project Name="function_definition" Path="function_definition/function_definition.project" Active="No"/>
+  <Project Name="FunctionParameter" Path="FunctionParameter/FunctionParameter.project" Active="No"/>
+  <Project Name="default_argument" Path="default_argument/default_argument.project" Active="No"/>
+  <Project Name="function_overloading" Path="function_overloading/function_overloading.project" Active="No"/>
+  <Project Name="arrays_and_functions" Path="arrays_and_functions/arrays_and_functions.project" Active="No"/>
+  <Project Name="pass_by_reference" Path="pass_by_reference/pass_by_reference.project" Active="Yes"/>
+  <Project Name="scope_example" Path="scope_example/scope_example.project" Active="No"/>
+  <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
+  <Project Name="Section11Challenge" Path="Section11Challenge/Section11Challenge.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="math" ConfigName="Debug"/>
+      <Project Name="Random" ConfigName="Debug"/>
+      <Project Name="function_definition" ConfigName="Debug"/>
+      <Project Name="FunctionParameter" ConfigName="Debug"/>
+      <Project Name="default_argument" ConfigName="Debug"/>
+      <Project Name="function_overloading" ConfigName="Debug"/>
+      <Project Name="arrays_and_functions" ConfigName="Debug"/>
+      <Project Name="pass_by_reference" ConfigName="Debug"/>
+      <Project Name="scope_example" ConfigName="Debug"/>
+      <Project Name="Fibonacci" ConfigName="Debug"/>
+      <Project Name="Section11Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="math" ConfigName="Release"/>
+      <Project Name="Random" ConfigName="Release"/>
+      <Project Name="function_definition" ConfigName="Release"/>
+      <Project Name="FunctionParameter" ConfigName="Release"/>
+      <Project Name="default_argument" ConfigName="Release"/>
+      <Project Name="function_overloading" ConfigName="Release"/>
+      <Project Name="arrays_and_functions" ConfigName="Release"/>
+      <Project Name="pass_by_reference" ConfigName="Release"/>
+      <Project Name="scope_example" ConfigName="Release"/>
+      <Project Name="Fibonacci" ConfigName="Release"/>
+      <Project Name="Section11Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

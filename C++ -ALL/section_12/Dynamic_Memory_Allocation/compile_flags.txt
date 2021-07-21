@@ -1,0 +1,2 @@
+-I/Users/akinolaabidemi/Documents/section_12/Dynamic_Memory_Allocation
+-std=c++14

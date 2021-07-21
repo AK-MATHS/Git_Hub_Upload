@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11" Database="" Version="10000">
+  <Project Name="MathExample" Path="MathExample/MathExample.project" Active="No"/>
+  <Project Name="RandomNumbers" Path="RandomNumbers/RandomNumbers.project" Active="No"/>
+  <Project Name="FunctionDefinition" Path="FunctionDefinition/FunctionDefinition.project" Active="No"/>
+  <Project Name="AreaVolume" Path="AreaVolume/AreaVolume.project" Active="No"/>
+  <Project Name="FunctionPrototyping" Path="FunctionPrototyping/FunctionPrototyping.project" Active="No"/>
+  <Project Name="FunctionParameter" Path="FunctionParameter/FunctionParameter.project" Active="No"/>
+  <Project Name="DefaultArgument" Path="DefaultArgument/DefaultArgument.project" Active="No"/>
+  <Project Name="FunctionOverloading" Path="FunctionOverloading/FunctionOverloading.project" Active="No"/>
+  <Project Name="ArraysAndFunctions" Path="ArraysAndFunctions/ArraysAndFunctions.project" Active="No"/>
+  <Project Name="pass_by_reference" Path="pass_by_reference/pass_by_reference.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <Project Name="ScopeRules" Path="ScopeRules/ScopeRules.project" Active="No"/>
+  <Project Name="HowFunctionsWorkProject" Path="HowFunctionsWorkProject/HowFunctionsWorkProject.project" Active="No"/>
+  <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
+  <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
+  <Project Name="Recursive_function" Path="Recursive_function/Recursive_function.project" Active="No"/>
+  <Project Name="Section11_Challenge" Path="Section11_Challenge/Section11_Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MathExample" ConfigName="Debug"/>
+      <Project Name="RandomNumbers" ConfigName="Debug"/>
+      <Project Name="FunctionDefinition" ConfigName="Debug"/>
+      <Project Name="AreaVolume" ConfigName="Debug"/>
+      <Project Name="FunctionPrototyping" ConfigName="Debug"/>
+      <Project Name="FunctionParameter" ConfigName="Debug"/>
+      <Project Name="DefaultArgument" ConfigName="Debug"/>
+      <Project Name="FunctionOverloading" ConfigName="Debug"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Debug"/>
+      <Project Name="pass_by_reference" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="ScopeRules" ConfigName="Debug"/>
+      <Project Name="HowFunctionsWorkProject" ConfigName="Debug"/>
+      <Project Name="Fibonacci" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="Recursive_function" ConfigName="Debug"/>
+      <Project Name="Section11_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MathExample" ConfigName="Release"/>
+      <Project Name="RandomNumbers" ConfigName="Release"/>
+      <Project Name="FunctionDefinition" ConfigName="Release"/>
+      <Project Name="AreaVolume" ConfigName="Release"/>
+      <Project Name="FunctionPrototyping" ConfigName="Release"/>
+      <Project Name="FunctionParameter" ConfigName="Release"/>
+      <Project Name="DefaultArgument" ConfigName="Release"/>
+      <Project Name="FunctionOverloading" ConfigName="Release"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Release"/>
+      <Project Name="pass_by_reference" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="ScopeRules" ConfigName="Release"/>
+      <Project Name="HowFunctionsWorkProject" ConfigName="Release"/>
+      <Project Name="Fibonacci" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="Recursive_function" ConfigName="Release"/>
+      <Project Name="Section11_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

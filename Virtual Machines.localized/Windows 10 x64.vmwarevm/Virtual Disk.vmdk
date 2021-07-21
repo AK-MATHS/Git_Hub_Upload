@@ -1,0 +1,21 @@
+# Disk DescriptorFile
+version=1
+encoding="UTF-8"
+CID=fffffffe
+parentCID=ffffffff
+isNativeSnapshot="no"
+createType="monolithicFlat"
+
+# Extent description
+RW 16384 FLAT "Virtual Disk-flat.vmdk" 0
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "8"
+ddb.geometry.heads = "64"
+ddb.geometry.sectors = "32"
+ddb.longContentID = "1dc2048cfb1f459ea59f5c54fffffffe"
+ddb.uuid = "60 00 C2 9c ae 77 1c c8-ce f6 96 57 29 35 05 78"
+ddb.virtualHWVersion = "11"
