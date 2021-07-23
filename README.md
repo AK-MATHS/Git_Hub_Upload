@@ -1,2 +1,2 @@
-# Git_Hub_Upload
-Here is a folder containing some of the projects I did while acquiring some of my hard skills.
+# Project Repository
+This folder contains some of my personal projects and practice sets using some of the hard skills I have acquired.
