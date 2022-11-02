@@ -1,2 +1,0 @@
--I/Users/akinolaabidemi/Documents/section_12/Pointers_to_Function
--std=c++14

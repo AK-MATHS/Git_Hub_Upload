@@ -1,0 +1,32 @@
+/*
+
+
+Section 20
+Challenge 4 - Stack and Queue Challenge
+
+A palindrome is a string that reads the same backwards or forwards.
+Simple examples are:
+madam
+bob
+toot
+radar
+
+An entire phrase can also be a palindrome, for example:
+A Toyota's a toyota
+A Santa at NASA
+A man, aplan, a cat, a ham, a yak, a hat, a canal-Panama!
+
+For the purposes of this assignment we will only consider alpha characters and ommit all other characters.
+We will also not be considering case.
+So,
+A Santa at Nasa, will be processed as:
+ASANTAATNASA
+
+A common method to solve this problem is to compare the string to its reverse and 
+if they are equal then it must be a palindrome. But we will use a deque.
+
+I am providing the main driver for you which will automatically run several test cases.
+Your challenge is to write the following function.
+
+
+*/

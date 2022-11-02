@@ -1,2 +1,0 @@
--I/Users/akinolaabidemi/Documents/section_12/dereferencing_pointers
--std=c++14

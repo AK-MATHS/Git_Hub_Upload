@@ -1,2 +1,0 @@
--I/Users/akinolaabidemi/Documents/section_12/Pointers_Pitfalls
--std=c++14
